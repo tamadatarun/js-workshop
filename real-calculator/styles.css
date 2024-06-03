@@ -13,13 +13,14 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     overflow: hidden;
+    width: 400px;
 }
 
 .display {
     background-color: #222;
     color: #fff;
-    font-size: 2em;
-    padding: 20px;
+    font-size: 3em;
+    padding: 30px;
     text-align: right;
 }
 
@@ -30,8 +31,8 @@ body {
 
 .btn {
     border: 1px solid #ddd;
-    padding: 20px;
-    font-size: 1.5em;
+    padding: 30px;
+    font-size: 2em;
     cursor: pointer;
     transition: background-color 0.2s;
 }
